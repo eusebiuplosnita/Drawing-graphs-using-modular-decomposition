@@ -1,0 +1,2 @@
+Continutul acestui pachet a fost realizat de catre Mark Tedder iar toate drepturile de autor ii revin acestuia si 
+Universitatii din Toronto. Mai multe detalii despre algoritm pot fi gasite la pagina: http://www.cs.utoronto.ca/~mtedder/
